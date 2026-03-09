@@ -1,4 +1,4 @@
-package com.ahmetcan.yolov8tflite
+.package com.ahmetcan.yolov8tflite
 
 import org.junit.Test
 
