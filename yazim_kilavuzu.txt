@@ -1,0 +1,180 @@
+T.C.
+NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ
+MÜHENDİSLİK-MİMARLIK FAKÜLTESİ
+BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
+BİTİRME ÖDEVİ YAZIM KILAVUZU
+1. GENEL YAZIM KURALLARI
+1.1. Kullanılacak Kağıt ve Yazım
+Ödevler A4 boyutlarındaki beyaz kağıtlara önlü arkalı yazılır. 
+1.2. Dış ve İç Kapak
+Ödevin dış ve iç kapakları aynı olup “Tez Kapak Örneği”ne göre hazırlanır. 
+1.3. Yazım Şekli
+Bitirme ödev metninin tamamı Times New Roman (12 punto) veya Ariel, Calibri (11 punto) yazı  
+karakteri ile yazılır. Koyu harfler başlıklarda kullanılır. Başlıklar haricinde gereksiz koyu (bold) ve eğik  
+(italik) karakter kullanımından kaçınılır.   
+1.4. Sayfa Düzeni
+A4 boyutundaki kağıdın solundan 3 cm, sağından 2 cm, üstünden 2,5 cm ve altından 2,5 cm boşluk  
+bırakılmalıdır. Ödev metni ve başlıklar sağ ve sol olmak üzere iki yana yaslaır (justify). 
+1.5. Satır Aralıkları ve Düzeni
+Ödev metni tek (1,0) aralıkla yazılmalıdır. Paragraf başlangıcıları 1,25 cm asılı olmalıdır. 
+1.6. Başlıklar
+Bölüm başlıkları (Önsöz, İçindekiler, ... , Giriş, Malzeme ve Yöntem, ... , Ekler, Özgeçmiş) birinci derece  
+başlıklar olarak yazılırlar. Birinci derece başlıklardan Önsöz, İçindekiler, Giriş ve Kaynaklar her zaman  
+sayfa başlarında yer almalıdır. Tüm başlıklar sağa ve sola dayalı (justify) olarak yazılırlar. 
+1.7. Sayfa Numaralama
+Ödevin dış ve iç kapağı dışındaki tüm sayfaları numaralanır. Bitirme ödevinin Giriş’ten başlayarak tüm  
+sayfaları Arap rakamları (1, 2, 3, ...) ile sayfanın alt ortasından numaralanır. 
+1.8. Tablolar ve Şekiller
+Tablo başlıkları tablonun üstünde, şekil başlıkları ise şeklin altında ve satırbaşlarından başlayarak yer  
+alır. Tüm tablo  ve  şekillere Bitirme  Ödevinde yerlerini dikkate  alarak  numara  verilir.  Tablolar  ve  
+şekiller metinde ilk söz edildikleri yere mümkün olduğunca yakın yerleştirilmelidir. Bir ya da birkaç  
+tablo/şekil  aynı  sayfada  yer  alabilir.  Grafik,  resim  ve  haritalar  şekil  olarak  adlandırılır.  Bitirme  
+Ödevinde tablo ve şekillere metin içerisinde atıf yapılmalıdır. 
+1.9. Denklemler
+Denklemler altta ve üstte 12 punto boşluk bırakılarak yazılır. Denklemler yazı alanının sol kenarının 1  
+cm.  içinden  başlanarak  yazılır.  Denklemler  denklem  düzenleyici  ile  düzenlenir.  Denklemlere  
+formüllerdeki gibi sıra numarası verilir. Denklem numaraları yazı alanının sağına, parantez içinde ve  
+yazı alanının sağ kenarına göre hizalanarak tez yazım şeklinde belirtilen kurala göre yazılır.
+1.10. Ciltleme
+Ödev son hali ile danışman onayını aldıktan sonra beyaz karton kapakla ciltlenir.
+2. İÇERİK BİLGİLERİ
+2.1. Genel Bilgiler
+Noktalama  ve  yazım  için  Türk  Dil  Kurumu  Yazım  Kılavuzuna  ve  Türkçe  Sözlüğüne  uyulur.  Tezde  
+genellikle üçüncü şahıs kullanılmaya özen gösterilir. Ölçü birimleri için SI sistemi kullanılır.
+2.2. Bölümlerin İçerikleri
+Bölüm Adı İçerik
+Önsöz Bitirme ödeviyle ilgili tanıtıcı kısa bir paragrafı takiben ödevi 
+destekleyen kişi, kurum vb. teşekkür edilir. 
+İçindekiler
+Ödevde yer alan bölüm ve alt bölüm başlıklarının ve sayfa 
+numaralarının gösterildiği bölümdür. İki yana yaslanmış olarak 
+yazılır.
+Giriş
+Ödevin tanıtımının yapıldığı bölümdür. Bu bölümde ödev konusu 
+ve önemi ile ödev bölümlerinin içerikleri hakkında bilgi verilir. 
+Sonunda ödevde yapılması düşünülen çalışmanın amacı belirtilir. 
+Genel Kısımlar Bu bölümde ödev konusu ile ilgili bugüne kadar yapılmış çalışmalar 
+kurallara uyularak açıklanmalıdır. 
+Materyal ve 
+Yöntem
+Araştırmanın metodolojisin, alanının açıklandığı bölümdür. 
+Çalışmada kullanılan her türlü deney aleti, araç, malzeme, teori vb. 
+bu bölümde anlatılır. 
+Bulgular Ödev çalışmasının bulguları bu bölümde açıklanır.
+Tartışma ve 
+Sonuç
+Çalışma bulgularının değerlendirilmesi ile varılan sonuçlar mevcut 
+literatür bilgisi ile birlikte yorumlanır. Çalışmanın geliştirilmesi için 
+ileride yapılacak araştırmalara yönelik önerilerde bulunulur. 
+Kaynaklar Ödevde kullanılan kaynaklar (kitap, makale, bildiri, vb.) belirtilir. 
+Ekler Ödev çalışmasında kullanılan hesaplamalar, tablolar, şekiller metin 
+içinde akışı bölecek kadar çoksa bu bölümde yer alır. 
+2.3. Kaynaklar/Atıf
+Bilimsel çalışma ilkelerine uygun olarak hazırlanması gereken bitirme ödevlerinde kullanılan kaynaklar 
+veya atıfta bulunulan yazarlar net bir şekilde gösterilmelidir. Kaynaklar, aşağıda açıklanan Nümerik  
+Referans Tekniği veya Harvard Referans Tekniği kullanılarak verilir. 
+2.3.1. HARVARD Referans Tekniği
+Bu tekniğe göre metin içinde geçen atıflar yazar soyadı ve parantez içinde yer alan yayın yılı ile  
+belirtilir.  Yayınlar,  Kaynaklar  bölümünde  sırasıyla;  Yazar/lar,  Yayın  yılı,  Başlık,  Yayın  yeri,  Basım  
+detayları ile verilir. 
+Metinde:
+ Yazar adı cümlenin doğal bir parçası olarak kullanılmışsa yayın yılı parantez içinde belirtilir. 
+Gürkaynak (2002) kimyasal çözeltiler üzerinde yapmış olduğu  ...
+ Yazar adı cümlenin doğal bir parçası olarak kullanılmamışsa yazar adı ve basım yılı parantez  
+içinde verilir. 
+En son çalışmalar (Pınar, 2003) uygulamanın ...
+ İki yazarın bulunması durumunda her iki yazarın soyadı da kullanılır. 
+Cinicioglu ve Keleşoğlu (1993) yumuşak dolgular üzerinde ...
+ İkiden fazla yazar olması durumunda ilk yazarın soyadını “ve diğ.” ifadesi takip eder. 
+Öztoprak ve diğ. (1999) tarafından öne sürülen ... 
+ Eğer aynı yazarın aynı yılda basılmış birden fazla yayını kullanılmışsa basım yıllarının sonuna  
+alfabetik bir karakter ilave edilir. 
+Bozbey ve diğ. (2003a) tarafından yapılan çalışmalar bu sonucu ...
+ Eğer anonim bir kaynak kullanılmışsa “anon” ifadesi kullanılır. 
+Son zamanlarda konuşulan gerçekler (Anon 1998, syf.153) ...
+ Eğer yazarı belirsiz bir gazete yazısı kullanılacaksa gazete adı, basım yılı ve sayfa no belirtilir. 
+Bölgede görülen sel baskınları yapısal özellikleri etkilemektedir (Atlas 1998, syf.16)
+Kaynaklarda: 
+ Tez  çalışmasında  faydalanılan  yayınlar  yazar  soyadlarına  göre  alfabetik  sırayla  sıralanır.  
+Yayının basıldığı derginin, kongre kitapçığının, kitabın vb. adı eğik (italik) olarak yazılır. 
+ Kitap referansı için gösterim
+Yazarın SOYADI, ADI., Yayın yılı, Kitap adı, Yayınevi, Basım Yeri, ISBN.
+MERCER, P.A. and SMITH, G., 1993, Private viewdata in the UK, 2nd ed., Longman, London, 
+123-4567-890.
+ Kitap içinde yer alan bölüm referansı için gösterim
+Yazarın SOYADI, ADI., Yayın yılı, Kitaptaki Bölüm adı,  Kitap adı, Yayınevi, Basım Yeri, Sayfa 
+numarası.
+“Hasle G.R. and Syvertsen E.E. 1997: Marine Diatoms. In: Tomas C.R. (ed.), Identifying marine 
+phytoplankton, Chapter 2, Academic Press, A division of Harcourt Brace & Company, San 
+Diego,  USA, pp.5-385.” 
+ Dergilerdeki makaleler için gösterim
+Yazarın SOYADI, ADI., Yayın yılı, Makalenin adı, Derginin Adı, Cilt no ve (bölüm no), sayfa 
+numaraları.
+EVANS, W.A., 1994, Approaches to intelligent information retrieval, Information processing 
+and management, 7 (2), 147-168.
+ Konferans bildirileri için gösterim
+Yazarın SOYADI, ADI., Yayın yılı, Bildiri Adı, Konferans Kitapçığının Adı, Tarih ve Kongre Yeri, 
+Basım Yeri: Yayınevi, sayfa numaraları.
+SILVER, K., 1991, Electronic mail: the new way to communicate, 9th International Online 
+Information Meeting, 3-5 December 1990 London, Oxford: Learned Information, 323-330.
+ Tezler için gösterim
+Yazarın SOYADI, ADI., Yayın yılı, Tezin Adı, Yüksek Lisans/Doktora, Enstitü Adı.
+AGUTTER, A.J., 1995, The linguistic significance of current British slang, Thesis (PhD), 
+Edinburgh University.
+ Haritalar için gösterim
+SOYADI, ADI., Yayın Yılı,  Başlık, Ölçek, Basım Yeri:Yayınevi.
+MASON, James, 1832, Map of the countries lying between Spain and India,
+1:8.000.000, London: Ordnance Survey.
+ Web sayfaları için gösterim
+Yazarın SOYADI, ADI., Yıl,  Başlık [online], (Edition), Yayın Yeri, Web adresi:URL  [Ziyaret 
+Tarihi].
+HOLLAND, M., 2002, Guide to citing Internet sources [online], Poole,
+Bournemouth University,  http://www.bournemouth.ac.uk/library/using/ 
+guide_to_citing_internet_sourc.html [Ziyaret Tarihi: 4 Kasım 2002].
+2.3.2. NÜMERİK Referans Tekniği
+Bu teknikte tüm yayınlara tez yazarı tarafından bir numara verilir ve yayınlar numara sırasına göre  
+Kaynaklar bölümünde verilir. Yayınlara verilen numaralar aynı zamanda yayının tezin içinde geçtiği  
+sırayı da belirtmelidir. Dolayısıyla tezin metin kısmında kullanılan ilk yayın kaynaklarda birinci sırada  
+yer almalıdır. 
+Metin içinde geçen atıflar yazar soyadı ve köşeli parantez içinde yer alan yayın numarası şeklinde  
+verilir. Yayınlar, Kaynaklar bölümünde sırasıyla; Yazar/lar, Yıl, Başlık, Yayın yeri, Basım detayları ile  
+verilir. 
+Metinde:
+ Yazar adı cümlenin doğal bir parçası olarak kullanılmışsa yayın yılı parantez içinde belirtilir. 
+Gürkaynak [4] kimyasal çözeltiler üzerinde yapmış olduğu  ...
+ Yazar adı cümlenin doğal bir parçası olarak kullanılmamışsa yazar adı ve basım yılı parantez  
+içinde verilir. 
+En son çalışmalar [3, 6, 20] uygulamanın ...
+ İki yazarın bulunması durumunda her iki yazarın soyadı da kullanılır. 
+Keleşoğlu ve Öztoprak [11] yumuşak dolgular üzerinde ...
+ İkiden fazla yazar olması durumunda ilk yazarın soyadını “ve diğ.” ifadesi takip eder. 
+Bozbey ve diğ. [5] tarafından öne sürülen ... 
+Kaynaklarda: 
+ Kitap referansı için gösterim
+Yazarın SOYADI, ADI., Yayın yılı, Kitap adı, Yayınevi, Basım Yeri, ISBN.
+1. MERCER, P.A. and SMITH, G., 1993, Private viewdata in the UK, Longman, London, 123-
+4567-890.
+ Dergilerdeki makaleler için gösterim
+Yazarın SOYADI, ADI., Yayın yılı, Makalenin adı, Derginin Adı, Cilt no ve (bölüm no), sayfa 
+numaraları.
+2. EVANS, W.A., 1994, Approaches to intelligent information retrieval, Information 
+processing and management, 7 (2), 147-168.
+ Konferans bildirileri için gösterim
+Yazarın SOYADI, ADI., Yayın yılı, Bildiri Adı, Konferans Kitapçığının Adı.  Tarih ve Kongre Yeri. 
+Basım Yeri: Yayınevi, sayfa numaraları.
+3. SILVER, K., 1991, Electronic mail: the new way to communicate. 9th International Online 
+Information Meeting, 3-5 December 1990 London. Oxford: Learned Information, 323-330.
+ Tezler için gösterim
+Yazarın SOYADI, ADI., Yayın yılı, Tezin Adı, Yüksek Lisans/Doktora, Enstitü Adı.
+4. AGUTTER, A.J., 1995, The linguistic significance of current British slang, Thesis (PhD). 
+Edinburgh University.
+ Haritalar için gösterim
+SOYADI, ADI, Yıl, Başlık, Ölçek, Basım Yeri: Yayınevi.
+5. MASON, J., 1832, Map of the countries lying between Spain and India, 1:8,000,000, 
+London: Ordnance Survey.
+ Web sayfaları için gösterim
+Yazarın SOYADI, ADI, Yayın Yılı, Başlık [online]. (Edition), Yayın Yeri, Web adresi: URL [Ziyaret 
+Tarihi].
+6. HOLLAND, M., 2002, Guide to citing Internet sources [online], Poole, Bournemouth 
+University, http://www.bournemouth.ac.uk/library/using/guide_to 
+citing_internet  _sourc.html   [Ziyaret Tarihi: 4 Kasım 2023].
